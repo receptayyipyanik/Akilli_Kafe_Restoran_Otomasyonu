@@ -49,18 +49,6 @@ Projenin sektörel problem analizleri, çözdüğü inovatif darboğazlar, **3NF
 
 ---
 
-## 📸 Ekran Görüntüleri
-
-> *(Not: Ekran görüntülerini eklemek için aldığınız görselleri `images/` klasörüne yapıştırıp aşağıdaki sözdizimini kullanabilirsiniz.)*
-
-```markdown
-![Giriş Ekranı](images/login_ekrani.png)
-![Masalar ve Rezervasyon Yönetimi](images/masalar.png)
-![Sipariş Ekranı](images/siparis_ekrani.png)
-```
-
----
-
 ## 🔒 Yasal Uyarı, Telif Hakkı ve Lisans Şartları (LICENSE)
 
 Bu yazılım ve içeriğindeki tüm materyaller **TÜM HAKLARI SAKLIDIR (ALL RIGHTS RESERVED / PROPRIETARY LICENSE)** lisansı ile korunmaktadır.
